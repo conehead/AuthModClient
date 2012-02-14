@@ -14,4 +14,4 @@ Acquire an AuthMod key from your server owner, and put it directly in your .mine
 Usage
 -----
 
-You should be able to connect to the server as usual. If you want to connect from a different computer, you'll have to install AuthMod on that one as well, and copy your authmod.key as well.
+You should be able to connect to the server as usual. If you want to connect from a different computer, you'll have to install AuthMod and copy your authmod.key to it as well.
